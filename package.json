@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@vue-office/excel": "^1.2.7",
-    "@vue-office/pdf": "^1.2.6",
+    "@vue-office/pdf": "^1.5.5",
     "core-js": "^3.8.3",
     "docx-preview": "^0.1.18",
     "element-ui": "^2.15.13",
