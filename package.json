@@ -17,7 +17,7 @@
     "luckyexcel": "^1.0.1",
     "the-file-preview": "^0.2.0",
     "viewerjs": "^1.11.3",
-    "vue": "^2.6.14",
+    "vue": "^3.0.0",
     "vue-demi": "^0.14.5",
     "vue-viewer": "^1.0.4"
   },
